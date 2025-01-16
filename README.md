@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Biblioteca - Gerenciador de Bibliotecas
 
 **Software Livre para gerenciamento de bibliotecas**, projetado especialmente para instituições religiosas e organizações sem fins lucrativos. Este sistema oferece funcionalidades completas para cadastro, empréstimos e relatórios gerenciais, sendo ideal para uso local, em redes pequenas ou até na nuvem.
@@ -155,3 +156,9 @@ Quer fazer parte deste projeto? Aqui estão algumas maneiras de contribuir:
 
 Para mais detalhes, consulte a [seção de contribuição](#🤝-contribuição). 
 
+=======
+# Biblioteca
+Projeto para construção aplicação para gestão de biblioteca. 
+
+teste 1 
+>>>>>>> origin/main
