@@ -156,9 +156,3 @@ Quer fazer parte deste projeto? Aqui estão algumas maneiras de contribuir:
 
 Para mais detalhes, consulte a [seção de contribuição](#🤝-contribuição). 
 
-=======
-# Biblioteca
-Projeto para construção aplicação para gestão de biblioteca. 
-
-teste 1 
->>>>>>> origin/main
