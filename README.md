@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# 📚 Biblioteca - Gerenciador de Bibliotecas
-   "***Nome provisório do Projeto***"
+# 📚 Projeto Cesareia
+
+
 
 **Software Livre para gerenciamento de bibliotecas**, projetado especialmente para instituições religiosas e organizações sem fins lucrativos. Este sistema oferece funcionalidades completas para cadastro, empréstimos e relatórios gerenciais, sendo ideal para uso local, em redes pequenas ou até na nuvem.
 
@@ -51,8 +51,8 @@ Antes de começar, certifique-se de ter instalado:
 1. **Clone o repositório:**
 
    ```bash
-   git clone git@github.com:SoftwareEspirita/Biblioteca.git
-   cd Biblioteca
+   git clone git@github.com:BaniwaDev/Cesareia.git
+   cd ProjetoCesareia
    ```
 
 2. **Configure o banco de dados PostgreSQL:**
@@ -61,7 +61,7 @@ Antes de começar, certifique-se de ter instalado:
 - Atualize o arquivo `application.properties` com suas credenciais:
 
    ```properties
-   spring.datasource.url=jdbc:postgresql://localhost:5432/biblioteca_db
+   spring.datasource.url=jdbc:postgresql://localhost:5432/ProjetoCesareia_db
    spring.datasource.username=seu_usuario
    spring.datasource.password=sua_senha
    ```
