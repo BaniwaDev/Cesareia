@@ -1,1 +1,0 @@
-Scripts auxiliares (migrações, inicializações)
