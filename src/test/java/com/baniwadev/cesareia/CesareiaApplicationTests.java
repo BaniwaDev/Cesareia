@@ -1,10 +1,10 @@
-package com.baniwadev.cesareiawebapp;
+package com.baniwadev.cesareia;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CesareiaWebAppApplicationTests {
+class CesareiaApplicationTests {
 
 	@Test
 	void contextLoads() {

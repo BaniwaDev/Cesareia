@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.baniwadev</groupId>
-	<artifactId>cesareiawebapp</artifactId>
+	<artifactId>cesareia</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CesareiaWebApp</name>
+	<name>Cesareia</name>
 	<description>Cesareia - Gerenciador de biblioteca</description>
 	<url/>
 	<licenses>
