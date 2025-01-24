@@ -61,9 +61,9 @@ Antes de começar, certifique-se de ter instalado:
 - Atualize o arquivo `application.properties` com suas credenciais:
 
    ```properties
-   spring.datasource.url=jdbc:postgresql://localhost:5432/ProjetoCesareia_db
-   spring.datasource.username=seu_usuario
-   spring.datasource.password=sua_senha
+   spring.datasource.url=jdbc:postgresql://localhost:5432/cesareia_db
+   spring.datasource.username=postgres
+   spring.datasource.password=pgadmin123
    ```
 
 3. Compile e execute o projeto:
